@@ -1,0 +1,105 @@
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.exe
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.deps.json
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.runtimeconfig.json
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.dll
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.pdb
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form1.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.GenerateResource.cache
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.AssemblyInfoInputs.cache
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.AssemblyInfo.cs
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.dll
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\refint\Covid Hospital System.dll
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.pdb
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.genruntimeconfig.cache
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\ref\Covid Hospital System.dll
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.FgPass.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form2.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Patient_Details.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Add_Beds.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.BedAvail.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Receptioninst.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form3.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.RecepLogin.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.FgPassR.resources
+C:\Users\abhis\Downloads\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.SignUpR.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.exe
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.deps.json
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.runtimeconfig.json
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.dll
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.pdb
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Add_Beds.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.BedAvail.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.FgPass.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.FgPassR.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form1.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form2.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form3.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Patient_Details.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.RecepLogin.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Receptioninst.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.SignUpR.resources
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.GenerateResource.cache
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.AssemblyInfoInputs.cache
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.AssemblyInfo.cs
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.dll
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\refint\Covid Hospital System.dll
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.pdb
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.genruntimeconfig.cache
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\ref\Covid Hospital System.dll
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.dll.config
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\MySql.Data.DLL
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.AssemblyReference.cache
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.CopyComplete
+C:\Users\harin\Downloads\Covid Hospital System (2)\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Payments.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.exe
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.dll.config
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.deps.json
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.runtimeconfig.json
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Covid Hospital System.pdb
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.AssemblyReference.cache
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Add_Beds.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.BedAvail.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.FgPass.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.FgPassR.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form1.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form2.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Form3.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Patient_Details.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Payments.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.RecepLogin.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.Receptioninst.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid_Hospital_System.SignUpR.resources
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.GenerateResource.cache
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.AssemblyInfoInputs.cache
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.AssemblyInfo.cs
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.csproj.CoreCompileInputs.cache
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.sourcelink.json
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Ho.3EDF8BE6.Up2Date
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\refint\Covid Hospital System.dll
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.pdb
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\Covid Hospital System.genruntimeconfig.cache
+E:\Projects\Covid Hospital System\Covid Hospital System\Covid Hospital System\Covid Hospital System\obj\Debug\net6.0-windows\ref\Covid Hospital System.dll
